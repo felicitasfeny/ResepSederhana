@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">Resep Sederhana</string>
+    <string name="resep1">Ayam Bakar Bumbu Bali</string>
+    <string name="resep2">Sate Ayam Srepeh</string>
+    <string name="resep3">Pizza Sosis Jumbo (Tanpa Ulen)</string>
+    <string name="resep4">Nasi Goreng Mawut (Mawut Sayur)</string>
+    <string name="resep5">Fuyung Hai</string>
+    
+    <string name="bahan">Bahan-bahan :</string>
+    <string name="bumbu">Bumbu Halus :</string>
+    <string name="langkah">Langkah :</string>
+
+    <string name="bahan1">
+        1/2 kg ayam dipotong-potong
+        \n
+        1 buah jeruk nipis (untuk melumuri ayam)
+        \n
+        5 lembar daun jeruk
+        \n
+        4 batang serai (memarkan)
+        \n
+        3 sdm kecap manis
+        \n
+        1 sdm air asam jawa
+        \n
+        200 ml air kelapa (atau air biasa)
+    </string>
+
+    <string name="bumbu1">
+        10 buah cabe merah
+        \n
+        8 buah cabe rawit merah
+        \n
+        10 siung bawang merah
+        \n
+        4 siung bawang putih
+        \n
+        1 sdt terasi bakar
+        \n
+        2 ruas kunyit bakar
+        \n
+        1 ruas kencur
+        \n
+        4 buah kemiri sangrai
+    </string>
+
+    <string name="langkah1">
+        1. Lumuri ayam dengan air jeruk nipis dan garam, diamkan 10 menit dan cuci.
+        \n
+        2. Tumis bumbu halus, tambahkan dengan daun jeruk, serai kemudian masak hingga harum.
+        \n
+        3. Masukkan ayam dan aduk, kemudian masukkan air kelapa/air biasa, air asam jawa, kecap manis, gula, garam, tutup panci dan ungkep sambil sesekali diaduk hingga air surut.
+        \n
+        4. Panggang ayam sambil dioles bumbu.
+        \n
+        5. Siap dihidangkan.
+    </string>
+
+    <string name="bahan2">
+        600 gr fillet ayam,potong kotak 3 cm
+        \n
+        3 gelas santan kental
+        \n
+        garam dan air jeruk nipis utk merendam daging ayam
+    </string>
+
+    <string name="bumbu2">
+        15 cabe merah besar
+        \n
+        10 btr bawang merah
+        \n
+        5 btr bawang putih
+        \n
+        4 btr kemiri
+        \n
+        1 sdm gula merah
+        \n
+        1 sdm gula pasir
+        \n
+        1 sdm air asam jawa
+        \n
+        secukupnya garam bila suka penyedap
+    </string>
+
+    <string name="langkah2">
+        1. Ayam di cuci bersih, potong uk 3x3 cm, krn nnti akan menyusut jika sdh matang. rendam dgn garam dan air jeruk nipis kurleb 15 menit.
+        \n
+        2. Tusuk daging ayam tadi kira2 5-6 iris per tusuknya.
+        \n
+        3. Bumbu di haluskan semua, kecuali gula merah dan air asam jawa.
+        \n
+        4. Tumis bumbu halus sampai harum, lalu masukkan santan kental, aduk rata, masukkan gula merah gula pasir garam dan air asam jawa.
+        \n
+        5. Lalu masukkan ayam yg sdh di tusuk tadi, sampai terendam ayamnya, aduk2, ungkep sebentar sampai bumbu meresap dan ayam matang.
+        \n
+        6. Kira2 40 menit, sampai santan mengental dan menyusut, lalu matikan api.
+        \n
+        7. Bakar sate tadi di atas bara api, cukup sampai kecoklatan saja.
+        \n
+        8. Lalu tata di atas piring saji, siram bumbu lebihan ungkepan tadi.
+        \n
+        9. Siap di hidangkan bersama nasi hangat.
+    </string>
+
+    <string name="bahan3">
+        200 gram terigu protein tinggi
+        \n
+        25 gram susu bubuk
+        \n
+        2 sdt gula pasir
+        \n
+        Sejumput garam
+        \n
+        3 sdm minyak zaitun/minyak sayur
+        \n
+        <b>Aktifkan Ragi :</b>
+        \n
+        150 ml air hangat suam kuku. Jgn panas nnt raginya mati
+        \n
+        1 sdt ragi instan
+        \n
+        1 sdt gula pasir
+    </string>
+
+    <string name="bumbu3">
+        ayam
+        \n
+        sosis
+        \n
+        daging
+        \n
+        smoked beef
+        \n
+        paprika
+        \n
+        jagung
+        \n
+        bawang bombay
+        \n
+        Saus: napoletan/bolognise/saus tomat+sambal
+        \n
+        Secukupnya keju mozarella dan parmesan (quick melt juga bisa)
+    </string>
+
+    <string name="langkah3">
+        1. Aktifkan ragi. Campur semua bahan. Diamkan 5-10 menit hingga berbusa. Jika tdk berbusa ulangi tahap ini tanda raginya mati.
+        \n
+        2. Tuang 2 sdt sisa gula pasir dan minyak zaitun ke dalam larutan ragi. Aduk rata.
+        \n
+        3. Dalam wadah lain campur terigu dan susu bubuk serta garam. Aduk rata.
+        \n
+        4. Tuang larutan ragi ke dalam campuran tepung. Aduk rata. Ini jenis dough yg tidak lengket.
+        \n
+        5. Bulatkan adonan. Tutup plastik wrap. Diamkan hingga mengembang. Tergantung cuaca ya. 30-60 menit.
+        \n
+        6. Tinju adonan. Bentuk bulat.
+        \n
+        7. Tata di loyang yg sudah di oles minyak. Tusuk2 dengan garpu. Saya pakai loyang pizza jumbo 33cm. Mungkin kalo pakai loyang yg 20 cm bisa jadi 2 loyang.
+        \n
+        8. Oles dengan bahan saus dan beri topping.
+        \n
+        9. Panggang hingga matang. Kalau saya doughnya di panggang dulu 5 menit. Keluarkan. Lalu oles dan beri topping. Panggang lagi hingga matang. Sesuai selera masing2 aja ya.
+        \n
+        10. Enjoy.
+    </string>
+
+    <string name="bahan4">
+        nasi putih (sekiranya 3 piring kecil)
+        \n
+        1 batang wortel
+        \n
+        10 batang buncis
+        \n
+        2 butir telor ayam
+        \n
+        3 buah sosis ayam
+        \n
+        3 biji cabe kriting
+        \n
+        3 siung bawang merah
+        \n
+        2 siung bawang putih
+        \n
+        minyak goreng
+        \n
+        blubend
+        \n
+        kecap
+        \n
+        saos
+        \n
+        garam
+        \n
+        penyedap rasa
+    </string>
+
+    <string name="langkah4">
+        1. Pertama,iris bawang merah,putih dan cabe rawitnya jangan lupaaa sosis.
+        \n
+        2. Panas kan minyak secukupnya da margarin biar gurih" gmn gtuuu,lalu masukan bumbu goreng setmateng, udh wangi masukan sosis aduk sebentar lalu masukkan telor aduk sebentar lalu masukan sayurannya,,,udh sedikit layu masukan deh nasi dan kecap (bango) saos (abc),penyedap rasa (masako) aduk2 sampe rata cek rasa sesuai selera.
+        3. Sekiranya udh tercampur rata dan manyos rasanya,,angkat dan sajikan.
+    </string>
+
+    <string name="bahan5">
+        Telur Ayam
+        \n
+        Kol
+        \n
+        Wortel
+        \n
+        Tepung Terigu
+        \n
+        Garam
+        \n
+        Penyedap Rasa
+    </string>
+
+    <string name="bumbu5">
+        Bawang putih cincang
+        \n
+        Saos tomat
+        \n
+        Saos cabai
+        \n
+        Tepung maizena
+        \n
+        Garam
+        \n
+        Penyedap Rasa
+    </string>
+
+    <string name="langkah5">
+        1. Kocok telur.
+        \n
+        2. Masukan potongan sayur yang sudah disiapkan.
+        \n
+        3. Masukan 2 sdm tepung terigu.
+        \n
+        4. Tambahkan garam dan penyedap rasa, aduk hingga merata.
+        \n
+        5. Goreng dengan sedikit minyak sampai telur berwarna kecoklatan.
+        \n
+        6. Buat saos fu yung hai dengan semua bahan saos tadi, panaskan dan tambahkan sedikit air. Tunggu hingga mendidih.
+        \n
+        7. Fuyung Hai siap disajikan😊.
+    </string>
+</resources>
